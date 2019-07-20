@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "oracle",
+      "type": "com.cg.pos.entity.PizzaDetailsDTO",
+      "sourceType": "com.cg.pos.entity.PizzaDetailsDTO"
+    }
+  ],
+  "properties": [
+    {
+      "name": "oracle.cost",
+      "type": "java.lang.Double",
+      "sourceType": "com.cg.pos.entity.PizzaDetailsDTO"
+    },
+    {
+      "name": "oracle.item-id",
+      "type": "java.lang.Integer",
+      "sourceType": "com.cg.pos.entity.PizzaDetailsDTO"
+    },
+    {
+      "name": "oracle.item-name",
+      "type": "java.lang.String",
+      "sourceType": "com.cg.pos.entity.PizzaDetailsDTO"
+    },
+    {
+      "name": "oracle.quantity",
+      "type": "java.lang.Integer",
+      "sourceType": "com.cg.pos.entity.PizzaDetailsDTO"
+    },
+    {
+      "name": "oracle.store-id",
+      "type": "java.lang.Integer",
+      "sourceType": "com.cg.pos.entity.PizzaDetailsDTO"
+    }
+  ],
+  "hints": []
+}
